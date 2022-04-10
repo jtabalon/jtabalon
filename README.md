@@ -7,7 +7,7 @@ Hello, I'm [Joseph Tabalon](https://josephtabalonjr.com/), a **Data Scientist** 
 
 Here are some ideas to get you started:
 -->
-
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on an end to end biomedical imaging deep learning project
 - 🌱 I’m currently learning Rust programming language!
 - 📫 How to reach me: @josephtabalonjr
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 
 -->
